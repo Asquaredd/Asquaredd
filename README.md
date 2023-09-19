@@ -1,5 +1,9 @@
 
-## 🌐 Socials:
+
+![fxk4](https://github.com/Asquaredd/Asquaredd/assets/45696248/b65f84ae-4cda-450e-8213-2597d3811973)
+
+
+## 🌐 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/aman-adhikari/](https://www.linkedin.com/in/aman-adhikari/)) 
 
 # 💻 Tech Stack:
