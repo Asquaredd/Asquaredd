@@ -1,7 +1,3 @@
-
-![programming-coding-digital-marketing-b63zccx04i4luhh9](https://github.com/Asquaredd/Asquaredd/assets/45696248/9feaf185-35ce-4343-b2e5-e5efe7b73aaa)
-
-
 ## 🌐 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/aman-adhikari/](https://www.linkedin.com/in/aman-adhikari/)) 
 
@@ -20,4 +16,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Asquaredd&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![programming-coding-digital-marketing-b63zccx04i4luhh9](https://github.com/Asquaredd/Asquaredd/assets/45696248/9feaf185-35ce-4343-b2e5-e5efe7b73aaa)
