@@ -15,5 +15,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
-
-![programming-coding-digital-marketing-b63zccx04i4luhh9](https://github.com/Asquaredd/Asquaredd/assets/45696248/9feaf185-35ce-4343-b2e5-e5efe7b73aaa)
